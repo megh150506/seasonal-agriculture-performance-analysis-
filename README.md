@@ -1,4 +1,7 @@
 🌾 Seasonal Agriculture Performance Analysis
+<img width="1091" height="622" alt="image" src="https://github.com/user-attachments/assets/ac76177e-423f-4a1d-8488-7d23775810ed" />
+<img width="1100" height="641" alt="image" src="https://github.com/user-attachments/assets/d4a098f8-292e-4ebe-915e-ac096d35e3d0" />
+
 
 VOIS x AICTE — Data Analytics & Visualization Major Project
 
@@ -102,6 +105,8 @@ Predictive modeling (regression/ML) for yield & profit forecasting
 Interactive dashboard (Power BI / Streamlit) for real-time seasonal monitoring
 Multi-year data to study year-over-year seasonal trends
 Geospatial (choropleth map) visualization for state-level insights
+<img width="1150" height="665" alt="image" src="https://github.com/user-attachments/assets/ea57bae9-50af-4d2d-9ef8-b95ff5817fbd" />
+
 📄 License
 
 Submitted as part of the VOIS x AICTE Data Visualization course major project (Batch 1, 2026–2027).
